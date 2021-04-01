@@ -1,0 +1,4 @@
+okta:
+  oauth2:
+    client-id: 0oafzlgmm8Do4d6SX5d6
+    issuer: https://dev-62953174.okta.com/oauth2/default

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: carBackEndApps
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: debowner
+Implementation-Vendor-Id: com.carBackEndApps
+Build-Jdk: 1.8.0-262
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/carBackEndApps
+Created-By: Maven Integration for Eclipse
+
